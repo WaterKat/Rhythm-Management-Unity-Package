@@ -1,0 +1,14 @@
+{
+  "name": "com.waterkat.rhythmmanagement",
+  "version": "1.0.0",
+  "displayName": "WaterKat Rhythm Management",
+  "description": "This package allows you to manage rhythm games and timing more easily in unity",
+  "unity": "2021.1",
+  "type": "library",
+  "author": 
+  {
+    "name": "Jacob Vallecillo",
+    "email": "waterkatgames@gmail.com",
+    "url": "waterkatgames.com"
+  }
+}
